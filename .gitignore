@@ -21,7 +21,6 @@ env.py
 # ChatGPT suggestions
 *.pyc
 .DS_Store
-*.csv
 
 core.Microsoft*
 core.mongo*
