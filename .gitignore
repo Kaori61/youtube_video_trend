@@ -1,0 +1,36 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+env.py
+# Jupyter Notebooks
+.ipynb_checkpoints
+# VS Code
+.vscode/
+
+# ChatGPT suggestions
+*.pyc
+.DS_Store
+*.csv
+
+core.Microsoft*
+core.mongo*
+core.python*
+env.py
+__pycache__/
+*.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
+kaggle.json
+.venv/
